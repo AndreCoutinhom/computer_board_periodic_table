@@ -1,6 +1,6 @@
 ![image](https://github.com/AndreCoutinhom/computer_board_periodic_table/assets/91290799/97b474af-37ef-4eb0-b0c1-49ba1b3d5307)
 
-# Elementos da tabela periódica presentes em placas de computador
+# ⚗️ Elementos da tabela periódica presentes em placas de computador
 
 ## [014 - Silício]()
 
