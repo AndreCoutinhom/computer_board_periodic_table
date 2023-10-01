@@ -2,7 +2,7 @@
 
 # ⚗️ Elementos da tabela periódica presentes em placas de computador
 
-## [014 - Silício]()
+## [014 - Silício](silicio.md)
 
 <div>
   
@@ -11,7 +11,7 @@
 <a href="https://www.youtube.com/watch?v=RceykDDBuHs&list=PLeogDEToaTTEfEccFbSOJ1opx3cJpHxPx&index=1&pp=gAQBiAQB" target="_blank"><img align="center" height="43" width="163" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-## [029 - Cobre]()
+## [029 - Cobre](cobre.md)
 
 <div>
   
@@ -20,7 +20,7 @@
 <a href="https://www.youtube.com/watch?v=IH-Q9Gybn5U&list=PLeogDEToaTTEfEccFbSOJ1opx3cJpHxPx&index=2&pp=gAQBiAQB" target="_blank"><img align="center" height="43" width="163" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-## [031 - Gálio]()
+## [031 - Gálio](galio.md)
 
 <div>
   
@@ -29,7 +29,7 @@
 <a href="https://www.youtube.com/watch?v=VatTJ8SQ6G8&list=PLeogDEToaTTEfEccFbSOJ1opx3cJpHxPx&index=3&pp=gAQBiAQB" target="_blank"><img align="center" height="43" width="163" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-## [032 - Germânio]()
+## [032 - Germânio](germanio.md)
 
 <div>
   
@@ -38,7 +38,7 @@
 <a href="https://www.youtube.com/watch?v=6mzMArtAS0Q&list=PLeogDEToaTTEfEccFbSOJ1opx3cJpHxPx&index=4&t=1s&pp=gAQBiAQB" target="_blank"><img align="center" height="43" width="163" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-## [047 - Prata]()
+## [047 - Prata](prata.md)
 
 <div>
   
@@ -47,7 +47,7 @@
 <a href="https://www.youtube.com/watch?v=eLzBiTGdTqQ&list=PLeogDEToaTTEfEccFbSOJ1opx3cJpHxPx&index=5&pp=gAQBiAQB" target="_blank"><img align="center" height="43" width="163" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-## [049 - Índio]()
+## [049 - Índio](indio.md)
 
 <div>
   
@@ -56,7 +56,7 @@
 <a href="https://www.youtube.com/watch?v=ZvKLfiQrFkw&list=PLeogDEToaTTEfEccFbSOJ1opx3cJpHxPx&index=6&pp=gAQBiAQB" target="_blank"><img align="center" height="43" width="163" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-## [072 - Háfnio]()
+## [072 - Háfnio](hafnio.md)
 
 <div>
   
@@ -65,7 +65,7 @@
 <a href="https://www.youtube.com/watch?v=ZvKLfiQrFkw&list=PLeogDEToaTTEfEccFbSOJ1opx3cJpHxPx&index=6&pp=gAQBiAQB" target="_blank"><img align="center" height="43" width="163" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-## [073 - Tântalo]()
+## [073 - Tântalo](tantalo.md)
 
 <div>
   
@@ -74,7 +74,7 @@
 <a href="https://www.youtube.com/watch?v=HNBx0YzewsE&list=PLeogDEToaTTEfEccFbSOJ1opx3cJpHxPx&index=8&pp=gAQBiAQB" target="_blank"><img align="center" height="43" width="163" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-## [073 - Ouro]()
+## [073 - Ouro](ouro.md)
 
 <div>
   
