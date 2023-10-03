@@ -47,7 +47,3 @@ Quinquagésimo quarto elemento mais abundante na crosta terrestre (1,6 ppm).
   Contém 1,2% de Ge; Maior resistência à oxidação; Maior resistência térmica e elétrica; 
 * ### Liga silício-germânio
   Semicondutores usados em circuitos integrados. A liga resulta em dispositivos mais rápidos do que os baseados em apenas silício.
-
-###
-
-![image](https://github.com/AndreCoutinhom/computer_board_periodic_table/assets/91290799/ff9b8024-9a94-4a25-9ac4-5407608d8c40)
