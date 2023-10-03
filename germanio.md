@@ -36,6 +36,21 @@ Quinquagésimo quarto elemento mais abundante na crosta terrestre (1,6 ppm).
 * seleneto de germânio - GeSe
 * tetrafluoreto de germânio - GeF4
 
+tetracloreto de germânio
+
+GeCl4
+
+tetraiodeto de germânio
+
+Gel4
+
+germanato de bismuto
+
+Bi4Ge3O12
+
+germano
+
+GeH4
 
 ## Aplicações em computador
 
