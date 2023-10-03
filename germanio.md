@@ -30,7 +30,25 @@ Quinquagésimo quarto elemento mais abundante na crosta terrestre (1,6 ppm).
 ## Compostos
 
 
+dióxido de germânio
 
+monóxido de germânio
+
+GeO2
+
+Geo
+
+dissulfeto de germânio
+
+GeS2
+
+seleneto de germânio
+
+GeSe
+
+tetrafluoreto de germânio
+
+GeF4
 ## Aplicações em computador
 
 * ### Liga de gálio-índio-estanho
