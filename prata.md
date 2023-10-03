@@ -3,7 +3,7 @@
 
 ## Eletricidade
 
-* Um elétrons na camada de valência (Metal de transição)
+* Um elétron na camada de valência (Metal de transição)
 * Seu estado de oxidação mais comum é Ag+.
 
 ## Ocorrência
