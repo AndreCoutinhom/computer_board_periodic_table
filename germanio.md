@@ -30,34 +30,23 @@ Quinquagésimo quarto elemento mais abundante na crosta terrestre (1,6 ppm).
 ## Compostos
 
 
-* dióxido de germânio - GeO2
-* monóxido de germânio - GeO
-* dissulfeto de germânio - GeS2
-* seleneto de germânio - GeSe
-* tetrafluoreto de germânio - GeF4
-
-tetracloreto de germânio
-
-GeCl4
-
-tetraiodeto de germânio
-
-Gel4
-
-germanato de bismuto
-
-Bi4Ge3O12
-
-germano
-
-GeH4
+* Dióxido de germânio - GeO2
+* Monóxido de germânio - GeO
+* Dissulfeto de germânio - GeS2
+* Seleneto de germânio - GeSe
+* Tetrafluoreto de germânio - GeF4
+* Tetracloreto de germânio - GeCl4
+* Tetraiodeto de germânio - Gel4
+* Germanato de bismuto - Bi4Ge3O12
+* Germano - GeH4
+* Compostos orgânicos
 
 ## Aplicações em computador
 
-* ### Liga de gálio-índio-estanho
-  Fluido refrigerante na fabricação de circuitos eletrônicos
-* ### Arseneto de gálio (GaAs) e nitreto de gálio (GaN)
-  Semicondutores usados em transistores, chips de alta velocidade, LEDs e pré-amplificadores de microondas para smartphones.
+* ### Liga de Prata (Argentium)
+  Contém 1,2% de Ge; Maior resistência à oxidação; Maior resistência térmica e elétrica; 
+* ### Liga silício-germânio
+  Semicondutores usados em circuitos integrados. A liga resulta em dispositivos mais rápidos do que os baseados em apenas silício.
 
 ###
 
